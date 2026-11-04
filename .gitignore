@@ -1,0 +1,5 @@
+# never commit credentials or keys
+.x_creds*
+*.key
+wallets_pk.txt
+.env
